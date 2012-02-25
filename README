@@ -1,0 +1,4 @@
+A simple text reversing service
+
+Accepts a text string from the user and displays to the user the text string reversed.
+
